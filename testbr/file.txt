@@ -1,0 +1,52 @@
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../-1.14-windows.xml
+	../.VirtualBox/
+	../.bash_history
+	../.cache/
+	../.config/
+	../.copilot/
+	../.ganttproject
+	../.ganttproject.d/
+	../.gitconfig
+	../.local/
+	../.python_history
+	../.vscode-shared/
+	../.vscode/
+	../AppData/
+	../Contacts/
+	../Desktop/
+	../Documents/
+	../Downloads/
+	../Favorites/
+	../Links/
+	../Music/
+	../NTUSER.DAT
+	../NTUSER.DAT{0d5043b1-f7fe-11f0-bc4a-806e6f6e6963}.TM.blf
+	../NTUSER.DAT{0d5043b1-f7fe-11f0-bc4a-806e6f6e6963}.TM.blf.cnpf
+	../NTUSER.DAT{0d5043b1-f7fe-11f0-bc4a-806e6f6e6963}.TMContainer00000000000000000001.regtrans-ms
+	../NTUSER.DAT{0d5043b1-f7fe-11f0-bc4a-806e6f6e6963}.TMContainer00000000000000000001.regtrans-ms.cnpf
+	../NTUSER.DAT{0d5043b1-f7fe-11f0-bc4a-806e6f6e6963}.TMContainer00000000000000000002.regtrans-ms
+	../NTUSER.DAT{0d5043b1-f7fe-11f0-bc4a-806e6f6e6963}.TMContainer00000000000000000002.regtrans-ms.cnpf
+	../OneDrive/
+	../Pictures/
+	../Saved Games/
+	../Searches/
+	../Videos/
+	../ganttproject.log
+	../java0.log
+	../mccarter.start-git-bash-1.2.1.vsix
+	../mon-project/
+	../ntuser.dat.LOG1
+	../ntuser.dat.LOG2
+	../ntuser.ini
+	../taches.txt
+	./
+	../tp-branches/
+	../tp/
+
+nothing added to commit but untracked files present (use "git add" to track)
